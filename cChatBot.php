@@ -1,7 +1,7 @@
 <?php
 
 function enviarParaOpenRouter($propt) {
-    $token = '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';
+    $token = ''; // Adicione seu tocke da oppem IA
 
     $data = [
         'model' => 'mistralai/mistral-7b-instruct:free',
